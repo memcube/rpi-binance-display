@@ -20,7 +20,7 @@ If you have coins you want to exclude from being
 calculated and displayed you may write them behind
 DEL = as comma separated string.
 
-Asset positions with EUR values under EUR_LIMIT
+Asset positions with EUR values below EUR_LIMIT
 are not displayed in detail but are included
 in the total value.
 
