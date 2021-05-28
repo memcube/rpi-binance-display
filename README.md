@@ -15,7 +15,7 @@ market on binance you should exclude them from USDT
 calculation using the comma separated BTC list in 
 secret.cfg file (upper case letters).
 Then they are calculated from the BTC market (also the 
-24h ticker) Otherwise you will get a "Network Error" message. 
+24h ticker). Otherwise you will get a "Network Error" message. 
    
 If you want to exclude some coins completely, configure
 them with the comma separated list DEL in the config file.
