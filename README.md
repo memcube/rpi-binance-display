@@ -30,6 +30,6 @@ will rotate through all the assets. The change frequency is
 configured using the UPDATES value in secret.cfg. The value is
 a counter for how many update loops the current assets are 
 displayed. After that count the next 7 values are displayed. 
-On a Raspberry Pi 4 one update loop takes approximately 5 sek.
+On a Raspberry Pi 4 one update loop takes approximately 5 sec.
 
 A mouse click will exit the program.
